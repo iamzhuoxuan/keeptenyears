@@ -1,5 +1,5 @@
 * # Summary
-* [前言](README.MD)
+* [前言](README.md)
 
 * ### 2017年  公元1年
 * [过去我90%的阅读没有意义](20170109-readingbug.md)
@@ -30,6 +30,7 @@
 * [原来想象力才是我的真爱................吖](before 2017/20151113-i like imaging.md)
 
 * [玩出来的小米科技——读《参与感》\(一\)](before 2017/note about sense of participation.md)
+
 * [原来我喜欢的不是看书，而是……](before 2017/actually I don't like reading book.md)
 * [不妨多一点点勇敢，再多一点点自信](before 2017/20151105-be more confident.md)
 * [为什么你擅长分析，却提不出创造性的想法？](before 2017/20151104-analysis is not creativity.md)
@@ -57,6 +58,7 @@
 * [我为什么做这个公众号？](before 2017/20141202-why i make this wechat blog.md)
 
 * [我踏遍千山万水，只为与你错过](before 2017/20141129-work for passing away your life.md)
+
 * [我的小泥屋笔记](before 2017/20141125-note about the Innocent Anthropologist.md)
 * [无所求的爱才不会带来困扰](before 2017/20141120-ask nothing the won't be brothered)
 * [为什么这不是一个好的理论模型？](before 2017/20141029-why this is not a good model)
