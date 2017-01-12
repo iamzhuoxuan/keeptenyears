@@ -24,11 +24,8 @@
 
 * ### 2015年 元年前1年
 * [这篇文章只为赞美一个人](before 2017/20151206-praise my boss.md)
-
-* [历史可以那么写，历史可以这么读——读《明朝那些事儿1》](before 2017/20151116-note about the history about Ming Dynasty)
-
+* [历史可以那么写，历史可以这么读——读《明朝那些事儿1》](before 2017/20151116-note about the history about Ming Dynasty.md)
 * [原来想象力才是我的真爱................吖](before 2017/20151113-i like imaging.md)
-
 * [玩出来的小米科技——读《参与感》\(一\)](before 2017/note about sense of participation.md)
 
 * [原来我喜欢的不是看书，而是……](before 2017/actually I don't like reading book.md)
