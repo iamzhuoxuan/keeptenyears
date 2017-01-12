@@ -10,8 +10,6 @@
 
 收获很多，先分享其中很重要的3点：
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/cicG9K6Wf5FYZ8jtprTvOXUs28omUIXcicBRohL9cESlc0ZBHoQYUBEW8q6U0tlhF8fG6GpyRbEaul0tlbwerAaw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
-
 **1、商业思维**
 
 我喜欢这样比喻商业，一门好生意就是造一台自己会赚钱的机器，机器一个很重要的特征是什么？就是完成前期的建设之后可以自动化运转，无须太多的人工干涉。
