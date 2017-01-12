@@ -1,14 +1,11 @@
 * # Summary
-
 * [前言](README.md)
 
-* ###2017年  公元1年
-
+* ### 2017年  公元1年
 * [过去我90%的阅读没有意义](before 2017/20170109-readingbug.md)
 
-* ###2016年 元年
-
-  * [有一些工具，能让你活在别人的想象之外](before 2017/20161123-some tools.md)
+* ### 2016年 元年
+* [有一些工具，能让你活在别人的想象之外](before 2017/20161123-some tools.md)
 * [职场第1年，我学到这3样东西](before 2017/20160818-3 things i learn from the past year.md)
 * [十分钟读完《创造力——心流与创新心理学》](before 2017/20160807-ten minutes to read the book creativity.md)
 * [《活着》！ 2010-02-12](before 2017/20160721-note about the book live.md)
@@ -25,12 +22,13 @@
 * [《佐藤可士和我的创意新规则》笔记（精华版）](before 2017/20160111-captiveflower.md)
 * [张伟强教授说](before 2017/20160103-creatingnewrules.md)
 
-* ###2015年 元年前1年
-
+* ### 2015年 元年前1年
 * [这篇文章只为赞美一个人](before 2017/20151206-praise my boss.md)
+
 * [历史可以那么写，历史可以这么读——读《明朝那些事儿1》](before 2017/20151116-note about the history about Ming Dynasty)
+
 * [原来想象力才是我的真爱................吖](before 2017/20151113-i like imaging.md)
-* [玩出来的小米科技——读《参与感》(一)](before 2017/note about sense of participation.md)
+* [玩出来的小米科技——读《参与感》\(一\)](before 2017/note about sense of participation.md)
 * [原来我喜欢的不是看书，而是……](before 2017/actually I don't like reading book.md)
 * [不妨多一点点勇敢，再多一点点自信](before 2017/20151105-be more confident.md)
 * [为什么你擅长分析，却提不出创造性的想法？](before 2017/20151104-analysis is not creativity.md)
@@ -50,10 +48,11 @@
 * [已逝的和未来的](before 2017/20150112-lost and future.md)
 * [重逢的时候会紧张](before 2017/20150109-nice meet u agiain.md)
 
-* ###2014年 元年前2年
-
+* ### 2014年 元年前2年
 * [以后应该多吃夜宵](before 2017/20141230-eat supper more times.md)
+
 * [未未时间管理说（下半场）](before 2017/20141212-how to manage your time.md)
+
 * [我为什么做这个公众号？](before 2017/20141202-why i make this wechat blog.md)
 * [我踏遍千山万水，只为与你错过](before 2017/20141129-work for passing away your life.md)
 * [我的小泥屋笔记](before 2017/20141125-note about the Innocent Anthropologist.md)
@@ -62,3 +61,6 @@
 * [明天需要一点康德](before 2017/20141028-read kant's work tomorrow)
 * [再谈木心——参加保守派书房·异数眼中的中国意象](before 2017/20141023-talk about Muxin again.md)
 * [张伟强教授说](before 2017/20140612-Professor Zhang say.md)
+
+
+
