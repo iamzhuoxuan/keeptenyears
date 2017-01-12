@@ -24,9 +24,6 @@
 
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/cicG9K6Wf5FYZ8jtprTvOXUs28omUIXciciaQ5uX23eaBKkRoobUc6K091kOoicTmzA3d9M4l9pJFXHvUJMAMuicFmQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
-![](http://mmbiz.qpic.cn/mmbiz_jpg/cicG9K6Wf5FYZ8jtprTvOXUs28omUIXciciaQ5uX23eaBKkRoobUc6K091kOoicTmzA3d9M4l9pJFXHvUJMAMuicFmQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
-
-
 **2、现实思维**
 
 基哥是市场人出身，他有非常强的战略分析能力，他非常擅长转化思路、灵活思考问题，也很擅长发于细微，由常识去思考问题，后者是作为营销人、市场人非常重要的特点。
@@ -55,4 +52,5 @@
 
 Night.
 
-*2016-08-18*
+_2016-08-18_
+
