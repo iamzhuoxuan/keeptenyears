@@ -8,7 +8,7 @@
 
 * ###2016年 元年
 
-* [有一些工具，能让你活在别人的想象之外](before 2017/20161123-some tools.md)	
+  * [有一些工具，能让你活在别人的想象之外](before 2017/20161123-some tools.md)
 * [职场第1年，我学到这3样东西](before 2017/20160818-3 things i learn from the past year.md)
 * [十分钟读完《创造力——心流与创新心理学》](before 2017/20160807-ten minutes to read the book creativity.md)
 * [《活着》！ 2010-02-12](before 2017/20160721-note about the book live.md)
